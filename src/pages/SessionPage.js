@@ -4,6 +4,7 @@ import UnestimatedIssue from '../components/UnestimatedIssue/UnestimatedIssue'
 import EstimatedIssue from '../components/EstimatedIssue/EstimatedIssue'
 import './Pages.css';
 
+
 class SessionPage extends Component {
     constructor(props) {
         super(props);
