@@ -22,7 +22,6 @@
     execute_commands:
     - "npm install"
     - "npm run build"
-    - "firebase deploy --token ${firebase_token}"
     setup_commands:
     - "npm install -g create-react-app"
     - "npm install -g firebase-tools"
